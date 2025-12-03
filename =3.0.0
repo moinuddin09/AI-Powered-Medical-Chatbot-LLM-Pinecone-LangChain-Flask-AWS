@@ -1,0 +1,11 @@
+Requirement already satisfied: click in c:\users\pc\anaconda3\envs\medibot\lib\site-packages (8.3.1)
+Collecting itsdangerous
+  Downloading itsdangerous-2.2.0-py3-none-any.whl.metadata (1.9 kB)
+Requirement already satisfied: blinker in c:\users\pc\anaconda3\envs\medibot\lib\site-packages (1.9.0)
+Requirement already satisfied: Werkzeug in c:\users\pc\anaconda3\envs\medibot\lib\site-packages (3.1.4)
+Requirement already satisfied: Jinja2 in c:\users\pc\anaconda3\envs\medibot\lib\site-packages (3.1.6)
+Requirement already satisfied: colorama in c:\users\pc\anaconda3\envs\medibot\lib\site-packages (from click) (0.4.6)
+Requirement already satisfied: markupsafe>=2.1.1 in c:\users\pc\anaconda3\envs\medibot\lib\site-packages (from Werkzeug) (3.0.3)
+Downloading itsdangerous-2.2.0-py3-none-any.whl (16 kB)
+Installing collected packages: itsdangerous
+Successfully installed itsdangerous-2.2.0
